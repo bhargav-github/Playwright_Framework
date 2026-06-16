@@ -28,7 +28,7 @@ export default defineConfig({
   use: {
 
     locale: 'en-US',
-    headless: false,
+    headless: true,
     timezoneId: 'Asia/Kolkata',
     trace: 'on-first-retry',
     screenshot: 'only-on-failure',
