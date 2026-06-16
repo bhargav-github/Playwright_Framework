@@ -1,0 +1,10 @@
+# .gitignore
+node_modules/
+.env
+.env.local
+playwright-report/
+test-results/
+screenshots/
+dist/
+.DS_Store
+*.log
